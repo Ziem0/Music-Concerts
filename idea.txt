@@ -1,0 +1,27 @@
+enigma
+
+entertainment account 
+	- saldo
+	- user data
+	- pic
+	- 
+music 
+	- finder
+	- myPlaylist
+	- listen to music
+	- bought albums
+	- buy 
+	- sell
+	- run
+		- customer
+		- employee
+		- manager
+cinema
+	- used tickets
+	- bought tickets
+	- buy 
+	- return
+	- book place
+		- customer
+		- employee
+		- manager
